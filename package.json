@@ -1,0 +1,22 @@
+{
+  "name": "keydial-nodejsapi",
+  "version": "1.0.0",
+  "description": "This is our first code for Nodejs and aws ec2 connectivity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keydial/nodejsapi.git"
+  },
+  "author": "keydial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keydial/nodejsapi/issues"
+  },
+  "homepage": "https://github.com/keydial/nodejsapi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
